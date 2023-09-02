@@ -8,11 +8,20 @@ If you think this is still too easy for you, try playing the Chaos Mod or gettin
 
 The mod is made out of two parts: A Logic mod (SuperstarMode.pak) and a Pak Patch (SuperstarMode_P.pak)
 
-Logic Mods can run code while Pak PAtches can overwrite existing game files
+Logic Mods can run code while Pak Patches can overwrite existing game files
 
-I would love to list all the Changes I made here but I don't want to looks through the code again
+I would love to list all the Changes I made here but I don't want to looks through the code again but if there is enough demand, I'll make a video explaining it
 
-Jim
-Jim
-Jim
-Jim
+# Installation
+
+add later
+
+
+
+# Jim
+
+Jim -1
+Jim -2
+Jim -3
+Jim -4
+Jim -5
