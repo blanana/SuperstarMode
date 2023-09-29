@@ -14,8 +14,35 @@ I would love to list all the Changes I made here but I don't want to looks throu
 
 # Installation
 
-add later
+- Download the Absolute Mod Loader and extract the .zip
+https://drive.google.com/file/d/1W0Qz-u5r0np-2QJHrSE6-Zs8pQF4-G63/view?usp=drive_link
+- Open "UnrealEngineModLauncher.exe"
+- Open Security Breach
+- Once Security Breach has loaded, close it again
+- Download "SuperstarMode.zip" from Gamebanana and extract it
+- Put "SuperstarMode_P.pak" into Security Breach's Paks folder
+(the path for me is "Steam\steamapps\common\Quarters\fnaf9\Content\Paks")
+- Open the folder "Logic Mods" (this gets created by the Mod Launcher)
+- Put "SuperstarMode.pak" into this folder
+- Open "UnrealEngineModLauncher.exe" and Security Breach again
+- Enjoy playing the mod!
 
+How to find your Paks folder:                            
+- Open Steam                                             
+- Go to Security Breach in your Library                  
+- Click on the Gear towards the right                    
+- Hover over "Manage"                                    
+- Click on "Browse local files"                          
+- Open the folder "fnaf9", then "Content" and then "Paks"
+
+Notes:
+- set Brightness, Contrast and Gamma to their default values
+- enable Subtitles (they are very helpful)
+- Remove ALL other mods before playing this one
+- Remove -dx11 from Security Breach's Launch instructions
+(It can cause Crashing and Memory Leaks in some Systems and is not required for this Mod Launcher)
+- Credit me (blanana) and link the Mod's Gamebanana and Github pages and my Youtube Channel (blanana_m) if you make any Content about this mod
+- send me a message on Discord (notblanana) about any issues you are experiencing (except lack of skill)
 
 
 # Jim
