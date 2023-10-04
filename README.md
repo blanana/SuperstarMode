@@ -12,7 +12,7 @@ Logic Mods can run code while Pak Patches can overwrite existing game files
 
 I would love to list all the Changes I made here but I don't want to looks through the code again but if there is enough demand, I'll make a video explaining it
 
-https://gamebanana.com/mods/471229
+<a href="https://gamebanana.com/mods/471229"><img src="https://gamebanana.com/mods/embeddables/471229?type=large"/></a>
 
 # Installation
 
